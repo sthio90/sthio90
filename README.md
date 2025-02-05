@@ -1,8 +1,8 @@
-## Hi there! 👋
+# Hi there! 👋
 
 Welcome to my corner of GitHub!
 
-🚀 About Me
+## 🚀 About Me
 
 I'm a tech enthusiast who loves:
 
@@ -12,7 +12,7 @@ I'm a tech enthusiast who loves:
 
 🏥 Healthcare Tech (because saving lives with tech is pretty cool!)
 
-🛠️ What I Do
+## 🛠️ What I Do
 
 I spend my time:
 
@@ -22,7 +22,7 @@ Experimenting with AI (No, I haven’t built Skynet... yet.)
 
 Exploring how technology can make healthcare smarter 💡
 
-🎉 Fun Facts
+## 🎉 Fun Facts
 
 I talk to my code. It doesn’t always listen.
 
